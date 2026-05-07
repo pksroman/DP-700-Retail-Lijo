@@ -51,6 +51,7 @@ Course URL:- [**https://learn.microsoft.com/training/courses/dp-700t00?WT.mc\_id
 
 **4) Day Wise links for topics**
 
+
 **Day 1 Reference Links for DP-700**
 
 &#x20;
@@ -68,6 +69,8 @@ Use Apache Spark in Microsoft Fabric - [**https://learn.microsoft.com/en-us/trai
 &#x20;
 
 Work with Delta Lake tables in Microsoft Fabric - [**https://learn.microsoft.com/en-us/training/modules/work-delta-lake-tables-fabric/**](https://learn.microsoft.com/en-us/training/modules/work-delta-lake-tables-fabric/)
+
+
 
 
 **Day 2 Reference Links for DP-700**
@@ -101,6 +104,8 @@ Create Real-Time Dashboards with Microsoft Fabric - [**https://learn.microsoft.c
 Use Activator in Microsoft Fabric - [**https://learn.microsoft.com/en-us/training/modules/use-fabric-activator/**](https://learn.microsoft.com/en-us/training/modules/use-fabric-activator/)
 
 
+
+
 **Day 3 Reference Links for DP-700**
 
 &#x20;
@@ -118,6 +123,8 @@ Monitor a Microsoft Fabric data warehouse - [**https://learn.microsoft.com/en-us
 &#x20;
 
 Secure a Microsoft Fabric data warehouse - [**https://learn.microsoft.com/en-us/training/modules/secure-data-warehouse-in-microsoft-fabric/**](https://learn.microsoft.com/en-us/training/modules/secure-data-warehouse-in-microsoft-fabric/)
+
+
 
 
 **Day 4 Reference Links for DP-700**
